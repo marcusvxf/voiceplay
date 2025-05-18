@@ -7,11 +7,11 @@ O projeto apresenta uma gui adicionando alguns controles para quando a aplicaç�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/marcusvxf/voiceplay.git
    ```
 2. Navegue para o diretório do projeto:
    ```bash
-   cd seu-projeto
+   cd voiceplay
    ```
 3. Crie um ambiente virtual:
    ```bash
